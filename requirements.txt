@@ -1,0 +1,32 @@
+openai==1.51.2
+# https://pypi.org/project/openai/
+
+pandas==2.2.3
+# https://pypi.org/project/pandas/
+
+python-dotenv==1.0.1
+# https://pypi.org/project/python-dotenv/
+
+datasets==3.0.1
+# https://pypi.org/project/datasets/
+
+numpy==2.1.2
+# https://pypi.org/project/numpy/
+
+matplotlib==3.9.2
+# https://pypi.org/project/matplotlib/
+
+seaborn==0.13.2
+# https://pypi.org/project/seaborn/
+
+scikit-learn==1.5.2
+# https://pypi.org/project/scikit-learn/
+
+python-docx==1.1.2
+# https://pypi.org/project/python-docx/
+
+ipywidgets==8.1.5
+# https://pypi.org/project/ipywidgets/
+
+python-docx==1.1.2
+# https://pypi.org/project/python-docx/
